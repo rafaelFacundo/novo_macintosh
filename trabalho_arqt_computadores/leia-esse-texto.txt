@@ -1,0 +1,19 @@
+﻿Nesse texto contém quais as variáveis que podem ser alteradas e quais programas respondem quais questões
+
+Questão 01 
+O arquivo progg.asm é o programa que responde essa questão. 
+O senhor pode modificar o valor do ano que deseja verificar no endereço c
+
+Questão 02
+O arquivo prog5.asm é o programa que responde essa questão.
+O senhor pode modificar o valor de n que deseja verificar no endereço n
+
+Questão 03
+O arquivo prog4.asm é o programa que responde essa questão.
+O senhor pode modificar os 3 endereços que estão no programa.
+
+Questão 04.
+O arquivo prog3.asm é o programa que responde essa questão. 
+O senhor pode modificar o endereço a para fazer os testes.
+
+
